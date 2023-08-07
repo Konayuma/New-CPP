@@ -69,7 +69,7 @@ int main() {
                     system("clear");
                 case 3:
                     // Implementation for Manage Student Information
-                    cout << " STUDENT INFOR " <<endl;
+                    cout << " STUDENT INFORMATION" <<endl;
                     cout << " " <<endl;
                     cout << "\t\t Name \t\t Sin \t\t Program " <<endl;
                     cout << "\t\t Fredrick Mwepu\t\t 22102325\t\t Computer Engineering" <<endl;
